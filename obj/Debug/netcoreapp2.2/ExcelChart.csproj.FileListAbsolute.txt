@@ -1,0 +1,11 @@
+C:\Users\levas\source\repos\ExcelChart\bin\Debug\netcoreapp2.2\ExcelChart.deps.json
+C:\Users\levas\source\repos\ExcelChart\bin\Debug\netcoreapp2.2\ExcelChart.runtimeconfig.json
+C:\Users\levas\source\repos\ExcelChart\bin\Debug\netcoreapp2.2\ExcelChart.runtimeconfig.dev.json
+C:\Users\levas\source\repos\ExcelChart\bin\Debug\netcoreapp2.2\ExcelChart.dll
+C:\Users\levas\source\repos\ExcelChart\obj\Debug\netcoreapp2.2\ExcelChart.csprojAssemblyReference.cache
+C:\Users\levas\source\repos\ExcelChart\obj\Debug\netcoreapp2.2\ExcelChart.csproj.CoreCompileInputs.cache
+C:\Users\levas\source\repos\ExcelChart\obj\Debug\netcoreapp2.2\ExcelChart.AssemblyInfoInputs.cache
+C:\Users\levas\source\repos\ExcelChart\obj\Debug\netcoreapp2.2\ExcelChart.AssemblyInfo.cs
+C:\Users\levas\source\repos\ExcelChart\bin\Debug\netcoreapp2.2\ExcelChart.pdb
+C:\Users\levas\source\repos\ExcelChart\obj\Debug\netcoreapp2.2\ExcelChart.dll
+C:\Users\levas\source\repos\ExcelChart\obj\Debug\netcoreapp2.2\ExcelChart.pdb
